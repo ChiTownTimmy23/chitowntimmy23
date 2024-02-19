@@ -1,64 +1,66 @@
 # My Friends Call Me Tim Bob... 👋
+<hr>
+
+<p>What is there to say about myself?  I've learned many life lessons along the way and want to continue moving forward.  I'm the type of person to gravitate towards strengthening my weaknesses.  My own personal standards are high and that helps me keep motivated.</p>
+
+<p>I'm a recovering perfectionist with a focus on self-improvement.  I still give into my tendencies but also have the self-awareness to realize that perfection is sometimes the enemy of progress.  Thus I give myself a little grace from time to time.</p>
+
 ## Work History & Experience
 <hr>
 
+I'd like to think the common thread among my work history is a quantitative mindset.  The management consulting roles were an effort to build those communication and leadership skills while the engineering roles were meant to build the technical skills.  I've done both well enough to be able to communicate effectively between technical and non-technical stakeholders. 
 <p>
   <a href="https://www.linkedin.com/in/timothy-byrne-70a7a013/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
 </p>
+
 <details open>
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
   <ul style="list-style-type: none; padding: 0;">
-    <!-- Each item wrapped in a <li> with display flex -->
+    <!-- Simplebet -->
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="min-width: 30px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
         <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Simplebet Logo" height="25" />
       </div>
-      <div><b>Simplebet</b> (Software Engineer, Data)</div>
+      <div style="padding-left: 10px;"><b>Simplebet</b> (Software Engineer, Data)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="min-width: 30px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
         <img src="https://media.licdn.com/dms/image/C560BAQHdGK-slYE-Dw/company-logo_200_200/0/1657216361547/thought_logic_consulting_logo?e=2147483647&v=beta&t=LPzEpE_I9-sCc-2ttsa7Am_4GXdmv6bP2gPLFiRt_Fc" alt="Thought Logic Logo" height="25" />
       </div>
-      <div><b>Thought Logic</b> (Data Consultant)</div>
+      <div style="padding-left: 10px;"><b>Thought Logic</b> (Data Engineer)</div>
     </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+        <img src="https://s29814.pcdn.co/wp-content/uploads/2021/07/imageedit_14_7709588134.png" alt="MBO Logo" height="25" />
+      </div>
+      <div style="padding-left: 10px;"><b>MBO Partners</b> (Data Engineer)</div>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+        <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/u1bfthwhdcpvqcuvx7rw" alt="GoExpedi Logo" height="25" />
+      </div>
+      <div style="padding-left: 10px;"><b>GoExpedi</b> (Data Engineer)</div>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+        <img src="https://www.pngall.com/wp-content/uploads/15/Accenture-Logo-PNG-Images.png" alt="Accenture Logo" height="25" />
+      </div>
+      <div style="padding-left: 10px;"><b>Accenture</b> (Data Scientist)</div>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1200px-PricewaterhouseCoopers_Logo.svg.png" alt="PWC Logo" height="25" />
+      </div>
+      <div style="padding-left: 10px;"><b>Sagence - Acquired by PWC</b> (Data Consultant)</div>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkpeZFSJDlPLkHVWI4NKhWclYW5oCtcRHLA&usqp=CAU" alt="SG Logo" height="25" />
+      </div>
+      <div style="padding-left: 10px;"><b>Société Générale</b> (Staff Auditor & Risk Analytics)</div>
+    </li>
+
   </ul>
-<ul>
-<!-- Simplebet -->
-  <div>
-    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Python" height="25" /> Simplebet (Software Engineer, Data)</h3>
-  </div>
-
-<!-- Thought Logic -->
-  <div>
-    <h3> <img src="https://media.licdn.com/dms/image/C560BAQHdGK-slYE-Dw/company-logo_200_200/0/1657216361547/thought_logic_consulting_logo?e=2147483647&v=beta&t=LPzEpE_I9-sCc-2ttsa7Am_4GXdmv6bP2gPLFiRt_Fc" alt="Thought Logic" height="25" /> Thought Logic (Data Consultant)</h3>
-  </div>
-
-<!-- MBO Partners -->
-  <div>
-    <h3> <img src="https://s29814.pcdn.co/wp-content/uploads/2021/07/imageedit_14_7709588134.png" alt="MBO" height="25" /> MBO Partners (Data Engineer)</h3>
-  </div>
-
-<!-- GoExpedi -->
-  <div>
-    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/u1bfthwhdcpvqcuvx7rw" alt="GoExpedi" height="25" /> GoExpedi (Data Engineer)</h3>
-  </div>
-
-<!-- Accenture -->
-  <div>
-    <h3> <img src="https://www.pngall.com/wp-content/uploads/15/Accenture-Logo-PNG-Images.png" alt="Accenture" height="25" /> Accenture (Consultant)</h3>
-  </div>
-
-<!-- Sagence -->
-  <div>
-    <h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1200px-PricewaterhouseCoopers_Logo.svg.png" alt="Sagence" height="25" /> Sagence - Acquired by PWC (Data Consultant)</h3>
-  </div>
-
-<!-- Societe Generale -->
-  <div>
-    <h3> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkpeZFSJDlPLkHVWI4NKhWclYW5oCtcRHLA&usqp=CAU" alt="SG" height="25" /> Société Générale (Staff Auditor & Risk Analytics)</h3>
-  </div>
-</ul>
-
 </details>
 
 
@@ -66,8 +68,9 @@
 ## Proficiencies & Skills
 <hr>
 
-### In No Particular Order...
 I've used a lot of tools over the years, but these are among my favorites.  I recently started learning *Rust* in an effort to level up my understanding of programming languages.
+### In No Particular Order...
+
 <!-- Programming Languages -->
 <div>
   <h4>▶ Programming Languages</h4>
