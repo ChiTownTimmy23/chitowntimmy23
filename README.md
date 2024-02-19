@@ -7,6 +7,7 @@
 </p>
 <details open>
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
+<ul>
 <!-- Simplebet -->
   <div>
     <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Python" height="25" /> Simplebet (Software Engineer, Data)</h3>
@@ -19,17 +20,17 @@
 
 <!-- MBO Partners -->
   <div>
-    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Python" height="25" /> MBO Partners (Data Engineer)</h3>
+    <h3> <img src="https://s29814.pcdn.co/wp-content/uploads/2021/07/imageedit_14_7709588134.png" alt="MBO" height="25" /> MBO Partners (Data Engineer)</h3>
   </div>
 
 <!-- GoExpedi -->
   <div>
-    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Python" height="25" /> GoExpedi (Data Engineer)</h3>
+    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/u1bfthwhdcpvqcuvx7rw" alt="GoExpedi" height="25" /> GoExpedi (Data Engineer)</h3>
   </div>
 
 <!-- Accenture -->
   <div>
-    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Python" height="25" /> Accenture (Consultant)</h3>
+    <h3> <img src="https://www.pngall.com/wp-content/uploads/15/Accenture-Logo-PNG-Images.png" alt="Accenture" height="25" /> Accenture (Consultant)</h3>
   </div>
 
 <!-- Sagence -->
@@ -39,9 +40,9 @@
 
 <!-- Societe Generale -->
   <div>
-    <h3> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="SG" height="25" /> Société Générale (Staff Auditor & Risk Analytics)</h3>
+    <h3> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkpeZFSJDlPLkHVWI4NKhWclYW5oCtcRHLA&usqp=CAU" alt="SG" height="25" /> Société Générale (Staff Auditor & Risk Analytics)</h3>
   </div>
-
+</ul>
 
 </details>
 
