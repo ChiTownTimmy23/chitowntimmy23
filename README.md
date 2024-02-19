@@ -1,12 +1,10 @@
 # My Friends Call Me Tim Bob... 👋
-<hr>
 
 <p>What is there to say about myself?  I've learned many life lessons along the way and want to continue moving forward.  I'm the type of person to gravitate towards strengthening my weaknesses.  My own personal standards are high and that helps me keep motivated.</p>
 
 <p>I'm a recovering perfectionist with a focus on self-improvement.  I still give into my tendencies but also have the self-awareness to realize that perfection is sometimes the enemy of progress.  Thus I give myself a little grace from time to time.</p>
 
 ## Work History & Experience
-<hr>
 
 I'd like to think the common thread among my work history is a quantitative mindset.  The management consulting roles were an effort to build those communication and leadership skills while the engineering roles were meant to build the technical skills.  I've done both well enough to be able to communicate effectively between technical and non-technical stakeholders. 
 <p>
@@ -66,7 +64,6 @@ I'd like to think the common thread among my work history is a quantitative mind
 
 
 ## Proficiencies & Skills
-<hr>
 
 I've used a lot of tools over the years, but these are among my favorites.  I recently started learning *Rust* in an effort to level up my understanding of programming languages.
 ### In No Particular Order...
