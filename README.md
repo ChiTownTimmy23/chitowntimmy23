@@ -13,46 +13,46 @@ I'd like to think the common thread among my work history is a quantitative mind
 
 <details open>
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
-  <ul style="list-style-type: none; padding: 0;">
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
     <!-- Simplebet -->
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Simplebet Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>Simplebet</b> (Software Engineer, Data)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://media.licdn.com/dms/image/C560BAQHdGK-slYE-Dw/company-logo_200_200/0/1657216361547/thought_logic_consulting_logo?e=2147483647&v=beta&t=LPzEpE_I9-sCc-2ttsa7Am_4GXdmv6bP2gPLFiRt_Fc" alt="Thought Logic Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>Thought Logic</b> (Data Engineer)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://s29814.pcdn.co/wp-content/uploads/2021/07/imageedit_14_7709588134.png" alt="MBO Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>MBO Partners</b> (Data Engineer)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/u1bfthwhdcpvqcuvx7rw" alt="GoExpedi Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>GoExpedi</b> (Data Engineer)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://www.pngall.com/wp-content/uploads/15/Accenture-Logo-PNG-Images.png" alt="Accenture Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>Accenture</b> (Data Scientist)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1200px-PricewaterhouseCoopers_Logo.svg.png" alt="PWC Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>Sagence - Acquired by PWC</b> (Data Consultant)</div>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 50px; text-align: center;">
+      <div style="width: 50px; flex-shrink: 0; display: flex; justify-content: center; align-items: center;">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkpeZFSJDlPLkHVWI4NKhWclYW5oCtcRHLA&usqp=CAU" alt="SG Logo" height="25" />
       </div>
       <div style="padding-left: 10px;"><b>Société Générale</b> (Staff Auditor & Risk Analytics)</div>
