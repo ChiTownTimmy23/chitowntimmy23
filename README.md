@@ -7,6 +7,21 @@
 </p>
 <details open>
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
+  <ul style="list-style-type: none; padding: 0;">
+    <!-- Each item wrapped in a <li> with display flex -->
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="min-width: 30px;">
+        <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Simplebet Logo" height="25" />
+      </div>
+      <div><b>Simplebet</b> (Software Engineer, Data)</div>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <div style="min-width: 30px;">
+        <img src="https://media.licdn.com/dms/image/C560BAQHdGK-slYE-Dw/company-logo_200_200/0/1657216361547/thought_logic_consulting_logo?e=2147483647&v=beta&t=LPzEpE_I9-sCc-2ttsa7Am_4GXdmv6bP2gPLFiRt_Fc" alt="Thought Logic Logo" height="25" />
+      </div>
+      <div><b>Thought Logic</b> (Data Consultant)</div>
+    </li>
+  </ul>
 <ul>
 <!-- Simplebet -->
   <div>
