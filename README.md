@@ -14,6 +14,10 @@ I'd like to think the common thread among my work history is a quantitative mind
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
   <table>
     <tr>
+      <td><img src="https://www.southwire.com/medias/Header-SW-Logo.jpg?context=bWFzdGVyfHJvb3R8MTMwOTAyfGltYWdlL2pwZWd8aDk0L2hlMi84ODc0MjI0NTQ5OTE4LmpwZ3w3Mzg2NGQ1M2Y3ZTQ5OTc5YWFiMjkzMzliMzY2Y2ZhYjhmYWQyN2ExOGQzZTZiMGFmYzg5OTc3NmI0ODRiODJm" alt="Southwire Logo" height="25" /></td>
+      <td><b>Southwire</b> (Senior Data Engineer)</td>
+    </tr>
+    <tr>
       <td><img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/dgj9fwxvwl0ijxypovxt" alt="Simplebet Logo" height="25" /></td>
       <td><b>Simplebet</b> (Software Engineer, Data)</td>
     </tr>
