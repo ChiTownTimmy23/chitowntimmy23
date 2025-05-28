@@ -65,8 +65,9 @@ I've used a lot of tools over the years, but these are among my favorites.  I re
 
 <!-- Programming Languages -->
 <div>
-  <h4>▶ Templating Languages</h4>
+  <h4>▶ Transformation Languages</h4>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" height="25" />
+  <img src="https://img.shields.io/badge/sqlmesh-3670A0?style=for-the-badge&logoColor=white" alt="sqlmesh" height="25" />
 </div>
 <p><em>dbt powers SQL-based transformations.</em></p>
 
@@ -74,6 +75,7 @@ I've used a lot of tools over the years, but these are among my favorites.  I re
 <div>
   <h4>▶ Databases</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25" />
+  <img src="https://img.shields.io/badge/DuckDB-fcc006?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" height="25" />
 </div>
 <p><em>PostgreSQL is my go-to relational database.</em></p>
 
@@ -81,6 +83,7 @@ I've used a lot of tools over the years, but these are among my favorites.  I re
 <div>
   <h4>▶ DevOps Tools</h4>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25" />
+  <img src="https://img.shields.io/badge/Pulumi-4F44D5?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi" height="25" />
 </div>
 <p><em>Docker keeps environments consistent and reproducible.</em></p>
 
@@ -88,23 +91,20 @@ I've used a lot of tools over the years, but these are among my favorites.  I re
 <div>
   <h4>▶ Cloud Services</h4>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="25" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" height="25" />
 </div>
 <p><em>Most of my deployments run on AWS.</em></p>
 
 <!-- Data Tools & Frameworks -->
 <div>
   <h4>▶ Data Tools &amp; Frameworks</h4>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" height="25" />
   <img src="https://img.shields.io/badge/Databricks-E87730?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" height="25" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" height="25" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="25" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="25" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" height="25" />
   <img src="https://img.shields.io/badge/Dask-1E4E9A?style=for-the-badge&logo=dask&logoColor=white" alt="Dask" height="25" />
-  <img src="https://img.shields.io/badge/sqlmesh-3670A0?style=for-the-badge&logoColor=white" alt="sqlmesh" height="25" />
   <img src="https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" height="25" />
-  <img src="https://img.shields.io/badge/Pulumi-4F44D5?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi" height="25" />
-  <img src="https://img.shields.io/badge/DuckDB-fcc006?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" height="25" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="25" />
   <img src="https://img.shields.io/badge/uv-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="uv" height="25" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="25" />
