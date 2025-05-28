@@ -15,6 +15,14 @@ I'd like to think the common thread among my work history is a quantitative mind
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
   <table>
     <tr>
+      <td><img src="https://images.goldenartistcolors.com/products/golden-artist-acrylics/open-slow-drying-color/application/7469-Viridian-Hue-still.webp" alt="Viridian Logo" height="25" /></td>
+      <td><b>Viridian Data</b> (Senior Data Engineer)</td>
+    </tr>
+    <tr>
+      <td><img src="https://media.licdn.com/dms/image/v2/D560BAQExlLPk3siq4Q/company-logo_100_100/company-logo_100_100/0/1721709606073?e=1753920000&v=beta&t=un9wR_IW-uIivsaGpSz6mapuIWRfECUs8blFjz8o7Do" alt="Sharpshooter Logo" height="25" /></td>
+      <td><b>Sharpshooter Analytic</b> (Founder)</td>
+    </tr>
+    <tr>
       <td><img src="https://www.southwire.com/medias/Header-SW-Logo.jpg?context=bWFzdGVyfHJvb3R8MTMwOTAyfGltYWdlL2pwZWd8aDk0L2hlMi84ODc0MjI0NTQ5OTE4LmpwZ3w3Mzg2NGQ1M2Y3ZTQ5OTc5YWFiMjkzMzliMzY2Y2ZhYjhmYWQyN2ExOGQzZTZiMGFmYzg5OTc3NmI0ODRiODJm" alt="Southwire Logo" height="25" /></td>
       <td><b>Southwire</b> (Senior Data Engineer)</td>
     </tr>
