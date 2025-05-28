@@ -4,12 +4,13 @@
 
 <p>I'm a recovering perfectionist with a focus on self-improvement.  I still give into my tendencies but also have the self-awareness to realize that perfection is sometimes the enemy of progress.  Thus I give myself a little grace from time to time.</p>
 
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/timothy-byrne-70a7a013/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
+
 ## Work History & Experience
 
-I'd like to think the common thread among my work history is a quantitative mindset.  The management consulting roles were an effort to build those communication and leadership skills while the engineering roles were meant to build the technical skills.  I've done both well enough to be able to communicate effectively between technical and non-technical stakeholders. 
-<p>
-  <a href="https://www.linkedin.com/in/timothy-byrne-70a7a013/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
-</p>
+I'd like to think the common thread among my work history is a quantitative mindset.  The management consulting roles were an effort to build those communication and leadership skills while the engineering roles were meant to build the technical skills.  I've done both well enough to be able to communicate effectively between technical and non-technical stakeholders.
 <details open>
   <summary style="font-size: 1.5em; font-weight: bold;">Where I've Worked</summary>
   <table>
@@ -60,28 +61,39 @@ I've used a lot of tools over the years, but these are among my favorites.  I re
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="25" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="25" />
 </div>
+<p><em>Python is my daily driver for data engineering, with R supporting statistical work and Rust teaching me systems concepts.</em></p>
 
 <!-- Programming Languages -->
 <div>
   <h4>▶ Templating Languages</h4>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" height="25" />
 </div>
+<p><em>dbt powers SQL-based transformations.</em></p>
 
 <!-- Databases -->
 <div>
   <h4>▶ Databases</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25" />
 </div>
+<p><em>PostgreSQL is my go-to relational database.</em></p>
 
 <!-- DevOps Tools -->
 <div>
   <h4>▶ DevOps Tools</h4>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25" />
 </div>
+<p><em>Docker keeps environments consistent and reproducible.</em></p>
 
 <!-- Cloud Services -->
 <div>
   <h4>▶ Cloud Services</h4>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="25" />
 </div>
+<p><em>Most of my deployments run on AWS.</em></p>
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitowntimmy23&show_icons=true)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=chitowntimmy23&style=flat-square)
 
